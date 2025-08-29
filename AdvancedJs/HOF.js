@@ -1,3 +1,8 @@
+// Aise functions jo dusre function ko as argument lete hain ya return karte hain.
+
+// Why use?
+// Functional programming
+// Code readable aur concise banta hai (map, filter, reduce)
 // A higher-order function is a function that either:
 // 1. Takes another function as an argument
 // 2. Returns a function

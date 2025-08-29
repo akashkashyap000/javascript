@@ -1,6 +1,5 @@
 // what is Hoisting in javascript?
 // Variable aur function declarations memory me "top" pe move hote hain before execution.
-
 // var hoists with undefined, let/const hoist but in temporal dead zone
 
 //  Hoisting Example
